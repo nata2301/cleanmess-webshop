@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_2" data-name="Lag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332.56 121.73">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: QuicksandLight-Regular, 'Quicksand Light';
+        font-size: 18px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #1d1d1b;
+      }
+
+      .cls-2 {
+        font-family: DreamAvenue, 'Dream Avenue';
+        font-size: 72px;
+      }
+
+      .cls-3 {
+        letter-spacing: .2em;
+      }
+
+      .cls-4 {
+        letter-spacing: .2em;
+      }
+
+      .cls-5 {
+        letter-spacing: .17em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Lag_1-2" data-name="Lag 1">
+    <text class="cls-2" transform="translate(0 61.2)"><tspan x="0" y="0">C</tspan><tspan class="cls-6" x="52.7" y="0">le</tspan><tspan class="cls-7" x="100.44" y="0">anM</tspan><tspan class="cls-6" x="231.84" y="0">e</tspan><tspan x="268.63" y="0">ss</tspan></text>
+    <text class="cls-1" transform="translate(50.56 96.15)"><tspan class="cls-4" x="0" y="0">HANDLE </tspan><tspan class="cls-5" x="100.55" y="0">Y</tspan><tspan class="cls-3" x="113.74" y="0">OUR MESS</tspan></text>
+  </g>
+</svg>
